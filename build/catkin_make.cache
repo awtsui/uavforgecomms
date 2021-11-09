@@ -1,0 +1,2 @@
+example:uav_network
+-DCATKIN_DEVEL_PREFIX=/home/alvin/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alvin/catkin_ws/install -G Unix Makefiles

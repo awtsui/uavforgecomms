@@ -1,0 +1,8 @@
+prefix=/home/alvin/catkin_ws/devel
+
+Name: uav_network
+Description: Description of uav_network
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
